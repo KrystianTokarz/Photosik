@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="customshapeimageview-1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a059cc3e44630d1b48f4e8f5910a74ae03fc3efe/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a059cc3e44630d1b48f4e8f5910a74ae03fc3efe/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mostafagazar/customshapeimageview/1.0.4/4c85fdb93d848cecba0269939c596e45a439900b/customshapeimageview-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
